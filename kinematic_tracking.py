@@ -1,6 +1,5 @@
 import cv2
 import mediapipe as mp
-from collections import deque
 from imutils.video import VideoStream
 import argparse
 import time
