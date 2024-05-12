@@ -57,3 +57,5 @@ if not args.get("video", False):
 else:
 	vs.release()
 cv2.destroyAllWindows()
+
+print ('asghar')
